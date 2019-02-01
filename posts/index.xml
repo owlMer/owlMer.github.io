@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 May 2018 15:48:10 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>博客简介</title>
+      <link>http://example.org/posts/introduction/</link>
+      <pubDate>Sun, 20 May 2018 15:48:10 +0800</pubDate>
+      
+      <guid>http://example.org/posts/introduction/</guid>
+      <description> 内容及目的：  个人学习笔记，技术向 作为个人总结，培养兴趣  更新时间  随时，看心情  </description>
+    </item>
+    
+  </channel>
+</rss>
